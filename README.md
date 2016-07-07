@@ -1,4 +1,4 @@
-Text Input Plugin [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+Text Input Plugin [![Build Status](https://travis-ci.org/punchcard-cms/input-plugin-text.svg?branch=master)](https://travis-ci.org/punchcard-cms/input-plugin-text) [![Coverage Status](https://coveralls.io/repos/github/punchcard-cms/input-plugin-text/badge.svg?branch=master)](https://coveralls.io/github/punchcard-cms/input-plugin-text?branch=master) [![NSP Status](https://nodesecurity.io/orgs/punchcard-cms/projects/146b79ac-dd55-4c00-953f-9dbbce596c4d/badge)](https://nodesecurity.io/orgs/punchcard-cms/projects/146b79ac-dd55-4c00-953f-9dbbce596c4d)
 ---
 
 An input plugin for a single text file
@@ -6,12 +6,3 @@ An input plugin for a single text file
 ## License
 
 Apache-2.0
-
-[npm-image]: https://badge.fury.io/js/input-plugin-text.svg
-[npm-url]: https://npmjs.org/package/input-plugin-text
-[travis-image]: https://travis-ci.org/punchcard-cms/input-plugin-text.svg
-[travis-url]: https://travis-ci.org/punchcard-cms/input-plugin-text
-[daviddm-image]: https://david-dm.org/punchcard-cms/input-plugin-text.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/punchcard-cms/input-plugin-text
-[coveralls-image]: https://coveralls.io/repos/punchcard-cms/input-plugin-text/badge.svg
-[coveralls-url]: https://coveralls.io/r/punchcard-cms/input-plugin-text
