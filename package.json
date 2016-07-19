@@ -1,6 +1,5 @@
 {
   "name": "input-plugin-text",
-  "version": "0.0.0",
   "description": "An input plugin for a single text file",
   "main": "index.js",
   "scripts": {
